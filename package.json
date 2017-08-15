@@ -1,9 +1,10 @@
 {
-  "name": "bootstrap",
+  "name": "bootstrap4",
   "version": "1.0.0",
-  "description": "",
   "main": "index.html",
-  "dependencies": {},
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  },
   "devDependencies": {
     "lite-server": "^2.3.0"
   },
@@ -14,12 +15,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Shaharwider/bootstrapCourse.git"
+    "url": "git+https://github.com/Shaharwider/bootstrapCourse.git"
   },
   "author": "Shahar wider",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Shaharwider/git-test/issues"
   },
-  "homepage": "https://github.com/Shaharwider/git-test#readme"
+  "homepage": "https://github.com/Shaharwider/git-test#readme",
+  "description": ""
 }
